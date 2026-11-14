@@ -24,7 +24,7 @@ I build AI systems that connect **models, data, and APIs** to real workflows, wi
 
 **Engineering focus:** Typed LLM outputs, evidence states (`supported`, `unsupported`, `conflicting`), tool constraints, automated tests, and human review.
 
-**Status:** Portfolio MVP. Real-LLM evaluation remains a separate workstream; deterministic fixture scores are **not** model-accuracy claims. The [GovCheck AI repository](https://github.com/Cassio327/govcheck-ai) is currently **private**, pending a final publication and security review.
+**Status:** Open-source portfolio MVP, now publicly accessible at [GovCheck AI](https://github.com/Cassio327/govcheck-ai). The [reviewed demo documentation](https://github.com/Cassio327/govcheck-ai/blob/main/docs/demo.md) and [Portuguese captions](https://github.com/Cassio327/govcheck-ai/blob/main/docs/demo-captions.srt) are available; **the actual MP4 upload is still pending**. Real-LLM evaluation remains a separate workstream; deterministic fixture scores are **not** model-accuracy claims.
 
 ### 02 — [FoodDemand AI](https://github.com/Cassio327/fooddemand-ai) | End-to-end Demand Forecasting
 
