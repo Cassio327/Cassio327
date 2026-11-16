@@ -64,6 +64,14 @@ These are **rolling one-step backtesting** results on a subset of the public Ecu
 - **Machine Learning & Data:** Python, pandas, NumPy, scikit-learn, temporal validation, feature engineering, RMSLE/MAE/WAPE, Hugging Face.
 - **Backend & MLOps:** FastAPI, Flask, PostgreSQL/pgvector, Docker, GitHub Actions, pytest, REST APIs, Streamlit, CI/CD, Git, Linux.
 
+## Additional Training — Generative AI Engineering
+
+**[Formação Engenheiro de IA Generativa 2026: IA na Prática (Udemy)](https://www.udemy.com/course/formacao-engenheiro-de-ia-generativa-ia-na-pratica)** · Curriculum of approximately **64 hours / 44 sections**.
+
+Focused coursework across **Python**, **LLMs and prompt engineering**, **RAG and embeddings**, **agentic workflows**, **LangChain/LangGraph**, **tool calling and MCP (Model Context Protocol)**, **LLM evaluation and guardrails**, **API integration**, **data analysis**, and **n8n automation**. Additional framework exposure includes **LlamaIndex, CrewAI, Agno, Gradio, Ollama, and multimodal AI**.
+
+**[Explore the structured course knowledge map](docs/generative-ai-training.md)** — distinguishes topics studied from systems actually implemented and tested in the projects above. No unverified certification or production-experience claims.
+
 ---
 
 **Interested in AI Engineering, GenAI, ML Engineering, and software internships.**
